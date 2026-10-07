@@ -42,18 +42,6 @@ The project uses the **OASIS-1 dataset**, a publicly available MRI dataset widel
 - Mild Dementia  
 - Moderate Dementia  
 
-**Class Distribution & Evaluation Metrics:**
-
-| Class | Precision | Recall | F1-Score | Support |
-|-------|-----------|--------|----------|--------|
-| Non Demented | 1.00 | 1.00 | 1.00 | 10083 |
-| Very Mild Dementia | 1.00 | 1.00 | 1.00 | 2059 |
-| Mild Dementia | 1.00 | 1.00 | 1.00 | 751 |
-| Moderate Dementia | 1.00 | 1.00 | 1.00 | 73 |
-| **Overall Accuracy** | **1.00** | **1.00** | **1.00** | 12966 |
-
----
-
 ## 🧠 Model Architecture
 
 **Base Model:** ResNet50 (pretrained on ImageNet)
